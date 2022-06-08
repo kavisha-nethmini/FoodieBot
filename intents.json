@@ -52,10 +52,10 @@
         "responses": ["Please check this for special offers https://foodierestro.com/special-offers-and-discounts"]
     },
     {"tag": "vegan_enquiry",
-        "patterns": ["Can I see the vegan options?","Do you have any vegan options?", "What is vegan in your menu?", "I am vegan.", "Do you also have vegan food?", "vegan", "is this restaurant vegan", "is this place vegan", "Can I see the vegetarian options?","Do you have any vegetarian options??", "Please show me your best vegetarian foods", "I dont want to eat non veg", "I am vegetarian", "vegetarian", "is this place vegetarian?"],
+        "patterns": ["Can I see the vegan options?","Do you have any vegan options?", "What is vegan in your menu?", "I am vegan.", "Do you also have vegan food?", "vegan", "is this restaurant vegan", "is this place vegan", "show me your best vegan foods"],
         "responses": ["Please check this https://foodierestro.com/foodierestro-menu/vegan"]
     },    
-    {"tag": "vegetarianr",
+    {"tag": "vegetarian",
         "patterns": ["Can I see the vegetarian options?","Do you have any vegetarian options?", "What is vegetarian in your menu?", "I am vegetarian.", "Do you also have vegetarian food?", "vegetarian", "is this restaurant vegetarian", "is this place vegetarian", "Please show me your best vegetarian foods"],
         "responses": ["Please check this https://foodierestro.com/foodierestro-menu/vegetarian"]
     },
