@@ -66,6 +66,10 @@
     {"tag": "suggest",
         "patterns": ["what do you recommend?","do you have any suggestions","please suggest something","why don't you recommend me a dish", "help me choose what to order", "Surprise me!", "Do you have any special recommendations for me?", "What do you suggest?", "what is your suggestion", "what is a must try", "what should i try", "what should i eat?", "tell me what to order", "tell me what i should buy", "recommend me a dish", "suggest me a dish"],
         "responses": ["Please check this for our special menu https://foodierestro.com/foodierestro-menu/special-menu"]
+    },
+    {"tag": "thank",
+        "patterns": ["thank you","thanks","thnx"],
+        "responses": ["you're welcome!"]
     }
 ]
 }
